@@ -1,6 +1,6 @@
 # Prime-Based Backoff Algorithm
 
-This project implements a backoff algorithm inspired by the prime number sequence from the movie *Contact*. It uses prime numbers as retry intervals and includes integration tests for load testing.
+This project implements a backoff algorithm inspired by the prime number sequence from the movie *Contact*, starring the incomparable Jodie Foster. It uses prime numbers as retry intervals and includes integration tests for load testing.
 
 > **Disclaimer**: This project may contain traces of late-night inspiration and questionable life choices. Use at your own risk. 😅
 
